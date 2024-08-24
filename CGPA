@@ -4,8 +4,7 @@
 using namespace std;
 //First Function
 void calculateGPA()
-{   // SubScribe to MH Computer Academy
-//https://www.youtube.com/watch?v=LRPbCtN1EbI&t=907s
+{   
 
    int NoOfSubs;
    double credits[NoOfSubs];
